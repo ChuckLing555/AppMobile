@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Lời mời kết bạn",
+    "content": "Nguyễn Tấn Tài đã gửi lời mời kết bạn",
+    "imageURL": "https://randomuser.me/api/portraits/men/79.jpg",
+    "time": "12-12-2021 14:52"
+  },
+  {
+    "id": 2,
+    "title": "Huy hiệu fan cứng",
+    "content": "Bạn đã được công nhận là fan cứng của Fan Club Phạm Ngọc Liêm",
+    "imageURL": "https://randomuser.me/api/portraits/men/43.jpg",
+    "time": "14-05-2021 11:30"
+  },
+  {
+    "id": 3,
+    "title": "Sự kiện mới",
+    "content": "Có thể bạn sẽ quan tâm đến Buổi gặp gỡ IDOL",
+    "imageURL": "https://randomuser.me/api/portraits/men/58.jpg",
+    "time": "03-01-2021 13:02"
+  },
+  {
+    "id": 4,
+    "title": "Lời mời kết bạn",
+    "content": "Đặng Minh Quân đã gửi lời mời kết bạn",
+    "imageURL": "https://randomuser.me/api/portraits/women/8.jpg",
+    "time": "01-11-2022 10:00"
+  },
+  {
+    "id": 5,
+    "title": "Bài viết mới",
+    "content": "Bạn đã được Trần Thị Kim Ngân gắn thẻ vào một bài viết mới: Tủi chẻ ai mà chẳng có những sai lầm",
+    "imageURL": "https://randomuser.me/api/portraits/women/60.jpg",
+    "time": "22-11-2020 16:34"
+  },
+  {
+    "id": 6,
+    "title": "Bình luận bài viết của bạn",
+    "content": "Mỹ Duyên 1234 đã bình luận về bài viết của bạn: WOWWWW",
+    "imageURL": "https://randomuser.me/api/portraits/women/27.jpg",
+    "time": "24-06-2021 16:34"
+  },
+  {
+    "id": 7,
+    "title": "Bình luận bài viết của bạn",
+    "content": "Hoàng Đệ đã bình luận về bài viết của bạn: Đỉnh đỉnh",
+    "imageURL": "https://randomuser.me/api/portraits/women/50.jpg",
+    "time": "22-07-2020 16:34"
+  },
+  {
+    "id": 8,
+    "title": "Sinh nhật bạn bè",
+    "content": "Hôm nay là sinh nhật của Trần Phương Ngọc Trúc, hãy gửi những lời chúc tốt đẹp nhất đến cô ấy",
+    "imageURL": "https://randomuser.me/api/portraits/men/78.jpg",
+    "time": "22-07-2020 16:25"
+  },
+  {
+    "id": 9,
+    "title": "Bài viết của bạn",
+    "content": "Lê Cao Tín đã bày tỏ cảm xúc HAHA về bài viết của bạn",
+    "imageURL": "https://randomuser.me/api/portraits/men/22.jpg",
+    "time": "01-11-2022 10:55"
+  },
+  {
+    "id": 10,
+    "title": "Tham gia nhóm",
+    "content": "Trần Thị Kim Ngân đã mời bạn tham gia nhóm kín: Lùa gà 5.0",
+    "imageURL": "https://randomuser.me/api/portraits/men/3.jpg",
+    "time": "01-11-2023 11:00"
+  }
+]
